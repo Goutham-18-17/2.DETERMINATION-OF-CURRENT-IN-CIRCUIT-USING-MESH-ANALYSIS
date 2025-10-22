@@ -21,6 +21,23 @@
 *Multi-source DC circuits may be analyzed using a mesh current technique. The process involves identifying minimum number of small loops such that every component exists in at least one loop. KVL is then applied to each loop. The loop currents are referred to as mesh currents as each current interlocks or meshes with the surrounding loop currents. As a result there will be a set of simultaneous equations created, an unknown mesh current for each loop. Once the mesh currents are determined, various branch currents and component voltages may be derived*
 
 **CIRCUIT DIAGRAM:**
+![WhatsApp Image 2025-10-22 at 17 21 46_391c058b](https://github.com/user-attachments/assets/aaec0e28-1264-41b3-b9b5-8573c3202d40)
+
+TABULAR COLUMN:
+![WhatsApp Image 2025-10-22 at 17 21 47_7ee78249](https://github.com/user-attachments/assets/e52952d5-f39d-4bc6-9534-ff6f9f2710e8)
+
+CALCULATION:
+![WhatsApp Image 2025-10-22 at 17 21 48_8ad29298](https://github.com/user-attachments/assets/560f830c-5506-4921-9524-66d38c09d7cd)
+![WhatsApp Image 2025-10-22 at 17 22 13_c27321fd](https://github.com/user-attachments/assets/0fb87e66-4262-4b61-9040-4af5f8a75f5a)
+
+MARKSPLIT:
+![WhatsApp Image 2025-10-22 at 17 21 47_d87bde86](https://github.com/user-attachments/assets/07d94ddf-7a1a-46d2-9194-e385a83e131a)
+
+
+
+
+
+
 
 **PROCEDURE:** 
 
